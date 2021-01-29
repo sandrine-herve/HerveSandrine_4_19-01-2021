@@ -6984,7 +6984,7 @@ button.list-group-item-danger.active:hover {
     display: block;
     height: 0;
     padding: 0;
-    overflow: hidden
+    overflow: hidden;
 }
 
 .embed-responsive .embed-responsive-item,
