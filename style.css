@@ -654,7 +654,8 @@ a {
 }
 
 h2,
-p {
+p,
+cite {
     font-family: "helvetica";
     font-weight: 400;
     color: #5d5d5d!important;
