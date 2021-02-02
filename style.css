@@ -653,7 +653,8 @@ a {
     color: #000000!important;
 }
 
-h2{
+h2,
+p {
     font-family: "helvetica";
     font-weight: 400;
     color: #5d5d5d!important;
@@ -712,6 +713,12 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+}
+
+.citation{
+    font-size: 20px;
+    line-height: 1.4em;
+    font-style: italic;
 }
 
 h3 {
