@@ -690,6 +690,10 @@ cite {
 }
 
 p {
+    font-size: 15px;
+}
+
+.center-text{
     font-size: 22px;
 }
 
