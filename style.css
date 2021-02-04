@@ -685,6 +685,13 @@ cite {
     color: #5d5d5d!important;
 }
 
+.text-center-1{
+    color:#000!important;
+    display: block;
+    text-align:center;
+
+}
+
 .container {
     max-width: 1000px;
 }
