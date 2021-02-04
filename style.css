@@ -9,11 +9,11 @@ body {
 
 .name{
     width:100%;
-    color:#000!important;
+    color:#585858!important;
     display: inline-block;
     position: relative;
     left:50px;
-    bottom:20px;
+    bottom:25px;
     font-weight: 400;
 }
 
@@ -132,7 +132,6 @@ a:hover {
 .d-bloc .a-btn,
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
-.d-bloc a .icon-md,
 .d-bloc a .icon-lg,
 .d-bloc a .icon-xl,
 .d-bloc h1 a,
@@ -143,6 +142,10 @@ a:hover {
 .d-bloc h6 a,
 .d-bloc p a {
     color: rgba(255, 255, 255, .6);
+}
+
+.d-bloc a .icon-md{
+    color:#000;
 }
 
 
@@ -491,7 +494,7 @@ button {
 }
 
 .icon-md {
-    font-size: 20px!important;
+    font-size: 15px!important;
 }
 
 .icon-lg {
@@ -706,7 +709,7 @@ cite {
 }
 
 p {
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .center-text{
@@ -776,6 +779,7 @@ h4 {
 
 .black {
     color: #000!important;
+    text-decoration: underline;
 }
 
 .portfolio-thumb {
