@@ -731,7 +731,7 @@ p {
 }
 
 .social {
-    max-width: 400px;
+    max-width: 100%;
     margin: auto auto auto auto;
 }
 
