@@ -7,6 +7,16 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.name{
+    width:100%;
+    color:#000!important;
+    display: inline-block;
+    position: relative;
+    left:50px;
+    bottom:20px;
+    font-weight: 400;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -326,6 +336,8 @@ a:hover {
     float: left;
     margin-top: 4px;
     font-size: 16px;
+    position:relative;
+    bottom:10px;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -390,6 +402,7 @@ a:hover {
         float: none;
         display: inline-block;
     }
+    
     .nav-center .site-navigation {
         position: relative;
         width: 100%;
@@ -640,6 +653,7 @@ a[data-lightbox]:hover img {
 }
 
 h1,
+h2,
 h3,
 h4,
 h5,
