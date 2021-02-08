@@ -10,7 +10,6 @@ h2,
 .mg-md text-center tc-white{
     width:93%;
 }
-
 .col-sm-122{
     margin-left:10%;
 } 
@@ -757,7 +756,7 @@ p {
 }
 @media(min-width: 1024px){
   .tight-width-whitespace{
-    max-width: 85%;
+    max-width: 100%;
   }  
 }
 
