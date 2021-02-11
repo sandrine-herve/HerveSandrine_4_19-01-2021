@@ -510,7 +510,7 @@ button {
 }
 
 .icon-md {
-    font-size: 18px!important;
+    font-size: 30px!important;
 }
 
 .icon-lg {
@@ -697,7 +697,8 @@ h6,
 p,
 label,
 .btn,
-a {
+a
+{
     font-family: "helvetica";
     font-weight: 400;
     color: #000000!important;
@@ -780,7 +781,7 @@ p {
 }
 
 .social {
-    height: 50px;
+    height: 100px;
     max-width: 100%;
     margin: 15px 15px 15px 15px;
 }
