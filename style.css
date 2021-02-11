@@ -881,6 +881,7 @@ h4 {
 
 
 .bold-link {
+    font-size: 22px;
     font-weight: 900;
     text-decoration: underline!important;
 }
