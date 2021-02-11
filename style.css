@@ -781,9 +781,32 @@ p {
 }
 
 .social {
-    height: 100px;
+    display: inline-flex;
+    position: relative;
+    left: 15%;
+    height: 50px;
     max-width: 100%;
     margin: 15px 15px 15px 15px;
+}
+@media(min-width: 375px) and (max-width: 424px){
+    .social {
+        left: 20%;
+    }
+}
+@media(min-width: 425px) and (max-width: 767px){
+    .social {
+        left: 22%;
+    }
+}
+@media(min-width: 768px) {
+    .social {
+        left: 30%;
+    }
+}
+@media(min-width: 1024px) {
+    .social {
+        left: 40%;
+    }
 }
 
 h2 {
